@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsSurge</string>
+    <string name="api_key">30e441e7241f48d48a8a6b04d3c55040</string>
+    <string name="hintSearchMess">Search News</string>
+</resources>
