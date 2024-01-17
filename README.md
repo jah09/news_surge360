@@ -1,6 +1,6 @@
 # news_surge360
-This is a Practice App using the retrofit/REST API in Android Studio(Java). 
-
+Personal Project </br>
+Using the retrofit/REST API in Android Studio(Java).  </br>
 Fetch news in general or by category; business, entertainment, health, science, and technology. 
 
   
